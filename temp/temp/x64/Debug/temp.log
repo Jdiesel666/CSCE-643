@@ -1,0 +1,9 @@
+﻿  runtest.cpp
+x:\cs stuff\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+x:\cs stuff\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+x:\cs stuff\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+x:\cs stuff\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+x:\cs stuff\vs proj\temp\temp\runtest.cpp(52): warning C4101: 'y1': unreferenced local variable
+x:\cs stuff\vs proj\temp\temp\runtest.cpp(51): warning C4101: 'x1': unreferenced local variable
+  temp.vcxproj -> X:\CS Stuff\VS Proj\temp\x64\Debug\temp.exe
+  temp.vcxproj -> X:\CS Stuff\VS Proj\temp\x64\Debug\temp.pdb (Full PDB)

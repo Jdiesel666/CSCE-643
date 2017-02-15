@@ -325,7 +325,7 @@ int main()
 			namedWindow("Pro Rectified", CV_WINDOW_NORMAL);		   // create output window
 			imshow("Pro Rectified", prorec);					   // diplayed rectified image
 			//imwrite("remove pro 1.jpg", prorec);		       // save image 1
-			imwrite("remove pro 2.jpg", prorec);			   // save image 2
+			//imwrite("remove pro 2.jpg", prorec);			   // save image 2
 			
 			// remove affine distortion based on projective distortion removal
 			Mat Ha = aff_hom(Hp);
@@ -339,7 +339,7 @@ int main()
 			namedWindow("Aff Rectified", CV_WINDOW_NORMAL);		   // create output window
 			imshow("Aff Rectified", affrec);					   // diplayed rectified image
 			//imwrite("remove aff 1.jpg", affrec);
-			imwrite("remove aff 2.jpg", affrec);
+			//imwrite("remove aff 2.jpg", affrec);
 		}
 	}
 	return (0);

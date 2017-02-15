@@ -1,8 +1,0 @@
-﻿  testing.cpp
-x:\cs stuff\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-x:\cs stuff\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-x:\cs stuff\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-x:\cs stuff\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-x:\cs stuff\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-  test.vcxproj -> X:\CS Stuff\VS Proj\test\x64\Debug\test.exe
-  test.vcxproj -> X:\CS Stuff\VS Proj\test\x64\Debug\test.pdb (Full PDB)

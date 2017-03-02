@@ -1,0 +1,11 @@
+﻿  project2_3.cpp
+x:\cs stuff\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+x:\cs stuff\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+x:\cs stuff\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+x:\cs stuff\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+x:\cs stuff\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+x:\cs stuff\vs proj\project2.3\project2.3\project2_3.cpp(384): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+x:\cs stuff\vs proj\project2.3\project2.3\project2_3.cpp(385): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+x:\cs stuff\vs proj\project2.3\project2.3\project2_3.cpp(386): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  project2.3.vcxproj -> X:\CS Stuff\VS Proj\project2.3\x64\Debug\project2.3.exe
+  project2.3.vcxproj -> X:\CS Stuff\VS Proj\project2.3\x64\Debug\project2.3.pdb (Full PDB)

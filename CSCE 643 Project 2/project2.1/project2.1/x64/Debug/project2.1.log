@@ -1,0 +1,13 @@
+﻿  project2_1.cpp
+x:\cs stuff\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+x:\cs stuff\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+x:\cs stuff\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+x:\cs stuff\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+x:\cs stuff\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+x:\cs stuff\vs proj\project2.1\project2.1\project2_1.cpp(145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+x:\cs stuff\vs proj\project2.1\project2.1\project2_1.cpp(146): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+x:\cs stuff\vs proj\project2.1\project2.1\project2_1.cpp(147): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+x:\cs stuff\vs proj\project2.1\project2.1\project2_1.cpp(184): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+x:\cs stuff\vs proj\project2.1\project2.1\project2_1.cpp(185): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  project2.1.vcxproj -> X:\CS Stuff\VS Proj\project2.1\x64\Debug\project2.1.exe
+  project2.1.vcxproj -> X:\CS Stuff\VS Proj\project2.1\x64\Debug\project2.1.pdb (Full PDB)
